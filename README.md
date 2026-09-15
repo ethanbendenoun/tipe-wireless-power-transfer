@@ -19,6 +19,7 @@ coupling with a ferromagnetic core, then the effect of coil misalignment and coi
 - `wireless_power_transfer.ipynb` — the project, as an executed notebook
 - `data/*.csv` — the five measurement series
 - `data/raw/*.rw3` — the original Regressi files
+- `presentation.pdf` — the oral presentation (in French): theory, Bode diagrams, rectification, Qi protocol
 
 ## Reproducing the figures
 
